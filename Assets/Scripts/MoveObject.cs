@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class MoveObject : MonoBehaviour
 {
     // This script allows the object to move up/down or rotate when arrow keys are pressed.
     public float movespeed = 5f;
